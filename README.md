@@ -4,7 +4,9 @@ https://netflix-clone-8deeb.web.app/
 
 
 
+
 This Netflix Clone is made using
  - ReactJs 
  - NodeJs 
  - Firebase (for login fucntionality)
+ - TMDB Api (for movie list extraction)
