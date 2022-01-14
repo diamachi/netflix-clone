@@ -31,6 +31,7 @@
 This is my first project in my web development career.
 It is a practice for ReactJS and hosting on firebase along with uploading with using Git version control. 
 
+## [DEMO](https://netflix-clone-8deeb.web.app/)
 
 ### Built With
 * [ReactJS](https://reactjs.org/)
@@ -46,10 +47,10 @@ It is a practice for ReactJS and hosting on firebase along with uploading with u
 
 
 ## Screenshots
-![Screen 1](https://i.imgur.com/3aVPq0o.png)
+![Screen 1](https://i.imgur.com/nJC8tXJ.png)
 <br>
 <br>
-![Screen 2](https://i.imgur.com/qUKhK02.png)
+![Screen 2](https://i.imgur.com/at10KgL.png)
 <br>
 <br>
 ![Screen 3](https://i.imgur.com/qHKGz5X.png)
